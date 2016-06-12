@@ -1,0 +1,28 @@
+name: Polarisvbc
+favicon: null
+layout_spectrum: 0.16624748590402305
+typography_spectrum: 0.6467400607652962
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5608776926528662
+  lightness: 0.6155176269821823
+  saturation: 0.7821715553291142
+  rhythmicContrast: 0.6137988732662052
+purpose: []
